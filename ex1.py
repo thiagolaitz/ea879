@@ -1,4 +1,4 @@
-#Thiago Soares Laitz - 224898
+#Thiago Soares Laitz
 
 import ply.lex as lex
 
